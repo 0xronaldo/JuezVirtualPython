@@ -1,8 +1,5 @@
 
-
-
 #!/usr/bin/python3
-
 K = int(input())
 casos = []
 for _ in range(K):

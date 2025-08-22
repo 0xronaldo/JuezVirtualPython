@@ -6,7 +6,6 @@ if __name__ == "__main__":
         fila = list(map(int, input().split()))
         matriz.append(fila)
 
-    # Verificar si alguna fila o columna tiene todos los valores iguales
     huye = False
     
     # Verificar filas
